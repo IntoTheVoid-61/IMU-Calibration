@@ -40,7 +40,8 @@ The calibration is based on linear sensor models that account for bias and scale
 3. Use the generated data files as input for the *Magneto* calibration software (see link below).  
 4. Apply the resulting bias and transformation matrices in your post-processing pipeline using the equations above.
 5. For information about your local magnetic field strength: [Local Magnetic Field Page](https://www.ngdc.noaa.gov/geomag/calculators/magcalc.shtml#igrfwmm)
-6. For information about your local gravitational field strength: [Local Gravitational Field Page](https://www.sensorsone.com/local-gravity-calculator/) (**Step 6 is not necessary since a good aproximation is 1g** )
+6. For information about your local gravitational field strength: [Local Gravitational Field Page](https://www.sensorsone.com/local-gravity-calculator/) 
+   - **Note:** Step 6 is not necessary since a good aproximation is 1g
     
    
 
