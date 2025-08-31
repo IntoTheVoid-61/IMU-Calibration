@@ -50,6 +50,7 @@ The calibration is based on linear sensor models that account for bias and scale
 ## External Calibration Tool
 For magnetometer calibration, the repository integrates with the *Magneto* software, available here:  
 👉 [Magneto Download Page](https://sailboatinstruments.blogspot.com/2011/09/improved-magnetometer-calibration-part.html)
+	For convenience Magneto software is also present in the repository
 
 ---
 
